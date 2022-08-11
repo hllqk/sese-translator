@@ -1,1 +1,7 @@
-# pythontest
+# 色色的拼音首字母缩写翻译
+
+真如名字一样，运行输入缩小如yn就会翻译出幼女
+
+[借鉴了大佬~~萝莉控~~的项目](https://github.com/RimoChan/bnhhsh)
+
+~~只是无聊玩玩罢了~~
